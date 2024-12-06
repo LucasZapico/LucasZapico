@@ -18,6 +18,7 @@
 </div>
 <p>Hi 👋, My name is Lucas. Maybe a developer, you decide. I hack on websites, web app, chrome extensions, REST API's and custom business integrations.</p>
 <br>
+<p>Linix on top, selfhosted on top</p>
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=nextjs,remix,go,gatsbyjs,react,javascript,angular,nodejs,express,python,flask,django,bash,mongodb,mysql,postgres,electron,graphql,git,docker,webpack,vercel,netlify,firebase,azure,heroku,vim,linux,tailwind,md,css,sass,html&perline=10" />
