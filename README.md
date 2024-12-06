@@ -35,5 +35,5 @@
   <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasZapico&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=ffe7a9">
 </div>
 
-Made with 💙
+Made with 🩸
 <!-- <img src="img/with_love.png"> -->
