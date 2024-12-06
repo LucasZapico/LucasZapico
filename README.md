@@ -20,7 +20,7 @@
 <br>
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=nextjs,remixjs,go, gatsbyjs,react,javascript,angular,nodejs,express,python,flask,django,bash,mongodb,mysql,postgres,electron,graphql,git,docker,webpack,vercel,netlify,firebase,azure,heroku,vim,linux,tailwind,md,css,sass,html&perline=10" />
+<img src="https://skillicons.dev/icons?i=nextjs,remix,go, gatsbyjs,react,javascript,angular,nodejs,express,python,flask,django,bash,mongodb,mysql,postgres,electron,graphql,git,docker,webpack,vercel,netlify,firebase,azure,heroku,vim,linux,tailwind,md,css,sass,html&perline=10" />
 
 ## Tool Chain
 <img src="https://skillicons.dev/icons?i=codepen,github,gitlab,vscode,figma&perline=10" />
