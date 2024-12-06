@@ -16,7 +16,7 @@
 <div>
 <img align="center" style="width: 400px " src="img/profile.svg">
 </div>
-<p>Hi 👋, My name is Lucas Zapico. A developer from USA who enjoys figuring how to make things for the web. I build websites, web app, chrome extensions, REST API's and custom business integrations. In my off time I enjoy the outdoors fishing 🎣, hiking 🥾, and a bit of watercolor to relax.    </p>
+<p>Hi 👋, My name is Lucas. Maybe a developer, you decide. I hack on websites, web app, chrome extensions, REST API's and custom business integrations.</p>
 <br>
 
 ## Tech Stack
