@@ -6,11 +6,13 @@ Senior full-stack engineer building production web applications — e-commerce p
 
 Also worked across Flask, Django, Angular, Gatsby, Electron, and GraphQL.
 
-**Current work** lives at [@bluemonkeymakes](https://github.com/bluemonkeymakes) — client projects spanning:
+**Recent work includes:**
 - Real estate MLS with Go + PostGIS
 - E-commerce with Medusa v2 + Stripe
 - Care facility platform with data pipeline orchestration
 - Therapist portal with scheduling + payments
+
+Case studies at [dev.lucaszapico.space](https://dev.lucaszapico.space)
 
 **Tools & infra:** [docker-recipes](https://github.com/LucasZapico/docker-recipes) · [ansible-recipes](https://github.com/LucasZapico/ansible-recipes)
 
