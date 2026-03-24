@@ -1,39 +1,19 @@
-<div align="center">
+## Lucas Zapico
 
-#
-<a href="https://github.com/LucasZapico">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/LucasZapico">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-</a>
-<a href="https://reddit.com/user/luzacapios">
-  <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
-</a>
-<a href="https://chess.com/member/lucasowl10">
-  <img src="https://img.shields.io/badge/Chess.com-000000.svg?style=for-the-badge&logo=Chess.com&logoColor=white">
-</a>
-<div>
-<img align="center" style="width: 400px " src="img/profile.svg">
-</div>
-<p>Hi 👋, My name is Lucas. Maybe a developer, you decide. I hack on websites, web app, chrome extensions, REST API's and custom business integrations.</p>
-<br>
-<p>Linix on top, selfhosted on top</p>
+Senior full-stack engineer building production web applications — e-commerce platforms, data pipelines, CRM integrations, and content-driven sites.
 
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=nextjs,remix,go,gatsbyjs,react,javascript,angular,nodejs,express,python,flask,django,bash,mongodb,mysql,postgres,electron,graphql,git,docker,webpack,vercel,netlify,firebase,azure,heroku,vim,linux,tailwind,md,css,sass,html&perline=10" />
+**Stack:** TypeScript · Go · Python · React Router 7 · NestJS · PostgreSQL · MongoDB · Redis · Docker
 
-## Tool Chain
-<img src="https://skillicons.dev/icons?i=codepen,github,gitlab,vscode,figma&perline=10" />
+Also worked across Flask, Django, Angular, Gatsby, Electron, and GraphQL.
 
-<!--- ### Learning 
- <img src="https://skillicons.dev/icons?i=go&perline=10" />
- -->
- 
-## Statistics
-  <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=LucasZapico&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=ffe7a9&icon_color=ffe7a9">
-  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasZapico&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=ffe7a9">
-</div>
+**Current work** lives at [@bluemonkeymakes](https://github.com/bluemonkeymakes) — client projects spanning:
+- Real estate MLS with Go + PostGIS
+- E-commerce with Medusa v2 + Stripe
+- Care facility platform with data pipeline orchestration
+- Therapist portal with scheduling + payments
 
-Made with 🩸
-<!-- <img src="img/with_love.png"> -->
+**Tools & infra:** [docker-recipes](https://github.com/LucasZapico/docker-recipes) · [ansible-recipes](https://github.com/LucasZapico/ansible-recipes)
+
+**Side projects:** [mailautumn](https://github.com/LucasZapico/mailautumn) — email client built on Mailspring's sync engine
+
+[dev.lucaszapico.space](https://dev.lucaszapico.space) · [LinkedIn](https://linkedin.com/in/LucasZapico)
