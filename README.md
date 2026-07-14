@@ -1,6 +1,6 @@
 ## Lucas Zapico
 
-Senior full-stack engineer building production web applications — e-commerce platforms, data pipelines, CRM integrations, and content-driven sites.
+Senior full-stack engineer building production web applications, e-commerce platforms, data pipelines, CRM integrations, and content-driven sites.
 
 **Stack:** TypeScript · Go · Python · React Router 7 · NestJS · PostgreSQL · MongoDB · Redis · Docker
 
